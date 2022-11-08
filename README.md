@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 뱅뱅뱅 **'신용카드 연체기간 예측 및 연체고객경향 분석’**
 
 🏆 2022 UBION Hackathon
@@ -97,3 +98,7 @@
 <img width="1018" alt="3" src="https://user-images.githubusercontent.com/88031549/200561113-03f653cc-394e-4f5e-926d-c675d06b26a0.png">
 
 <img width="1019" alt="4" src="https://user-images.githubusercontent.com/88031549/200561138-21d90538-3b38-430a-ad40-58fc8cb066c9.png">
+=======
+# UBION-HACKATHON
+UBION - 해커톤 / 22.10.18 ~ 22.10.31
+>>>>>>> 44f5680c739676c434d55b96e30a3db260a66239
