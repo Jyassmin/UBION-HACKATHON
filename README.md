@@ -1,6 +1,5 @@
-<br>
 # 뱅뱅뱅 **"신용카드 연체기간 예측 및 연체고객 경향분석"**
-<br>
+<br><br>
 🏆 2022 UBION Hackathon
 
 <img width="1439" alt="스크린샷 2022-11-08 오후 9 30 30" src="https://user-images.githubusercontent.com/88031549/200564223-31e6b165-eb12-4b8f-b98e-e19be004f3ed.png">
