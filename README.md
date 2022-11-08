@@ -1,8 +1,9 @@
-# '신용카드 연체기간 예측 및 장단기연체자별 경향분석’
+# '신용카드 연체기간 예측 및 연체고객 경향분석’
 
 🏆 2022 UBION Hackathon
 
-<img width="1436" alt="1" src="https://user-images.githubusercontent.com/88031549/200560973-024f8bcc-8c95-4985-a88f-e6a05aaa9b7c.png">
+<img width="1439" alt="스크린샷 2022-11-08 오후 9 30 30" src="https://user-images.githubusercontent.com/88031549/200564223-31e6b165-eb12-4b8f-b98e-e19be004f3ed.png">
+
 
 
 <img width="1369" alt="2" src="https://user-images.githubusercontent.com/88031549/200561065-a97f3902-ee92-4857-bd6b-a7e91328e25d.png">
